@@ -27,6 +27,9 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 
+# How the Course Works
+
+
 
 
 
