@@ -31,6 +31,19 @@ urlcolor: blue
 
 The weekly interactive tutorials must be completed by the start of each week. Then each weekly assignment will be due at the end of the week.
 
+# Course Goals
+
+By the end of the course, the students will be able to: 
+
+* Use [GitHub](https://github.com/) for creating a reproducible research document.
+
+    - My GitHub user name is: _yoh200_.
+
+* Obtain, clean, transform, and visualize a dataset using the R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models.
+
+* Critically examine and interpret statistical claims reported in mass media.
 
 
 
